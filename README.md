@@ -47,3 +47,4 @@ cat /home/bitnami/htdocs/data/init.sql | /opt/bitnami/mariadb/bin/mysql -u root 
 ![IP](image-6.png)
 
 
+
