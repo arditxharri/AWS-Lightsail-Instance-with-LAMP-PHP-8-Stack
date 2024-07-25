@@ -39,9 +39,9 @@ cat /home/bitnami/htdocs/data/init.sql | /opt/bitnami/mariadb/bin/mysql -u root 
 
 
 
-Enter a name for your instance and choose Create instance 
+    5. Click on **Enter** a name for your instance and choose **Create instance**
 
-Wait for the instace to go into running state and access it via the IP
+    6. Wait for the instace to go into running state and access it via the IP
 ![alt text](image-5.png)
 
 ![alt text](image-6.png)
